@@ -1,0 +1,18 @@
+# Xcode / Swift Package Manager
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Virtual Disks & Storage (do not commit actual multi-gigabyte VM disks)
+*.img
+*.iso
+*.qcow2
+*.vdi
+*.vmdk
+ParallelsLite.app
